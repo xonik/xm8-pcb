@@ -126,11 +126,11 @@
 <text x="23.495" y="4.7625" size="1.27" layer="26" rot="MR0">Outputs</text>
 <text x="43.815" y="4.7625" size="1.27" layer="26" rot="MR0">Outputs</text>
 <text x="51.435" y="3.81" size="1.27" layer="26" rot="MR90">DGND</text>
-<text x="53.975" y="3.81" size="1.27" layer="26" rot="MR90">EN</text>
-<text x="56.515" y="3.81" size="1.27" layer="26" rot="MR90">1</text>
-<text x="64.135" y="3.81" size="1.27" layer="26" rot="MR90">4</text>
-<wire x1="58.42" y1="4.1275" x2="63.5" y2="4.1275" width="0.127" layer="26"/>
-<text x="63.1825" y="4.7625" size="1.27" layer="26" rot="MR0">Addr</text>
+<text x="64.135" y="3.81" size="1.27" layer="26" rot="MR90">EN</text>
+<text x="61.595" y="3.81" size="1.27" layer="26" rot="MR90">1</text>
+<text x="53.975" y="3.81" size="1.27" layer="26" rot="MR90">4</text>
+<wire x1="55.88" y1="4.1275" x2="60.96" y2="4.1275" width="0.127" layer="26"/>
+<text x="60.325" y="4.7625" size="1.27" layer="26" rot="MR0">Addr</text>
 <text x="11.7475" y="19.3675" size="0.8128" layer="25">10n</text>
 <text x="52.3875" y="19.3675" size="0.8128" layer="25">10n</text>
 <wire x1="3.81" y1="20.6375" x2="3.81" y2="19.685" width="0.127" layer="25"/>
