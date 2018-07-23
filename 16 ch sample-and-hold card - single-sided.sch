@@ -12489,6 +12489,8 @@ In this library the device names are the same as the pin names of the symbols, t
 <sheet>
 <plain>
 <text x="-15.24" y="-27.94" size="5.08" layer="97" rot="R180">TODO: Bedre footprint for kontakt</text>
+<text x="-60.96" y="104.14" size="2.54" layer="97">Vishay
+DG506BE</text>
 </plain>
 <instances>
 <instance part="IC2" gate="A" x="22.86" y="99.06" smashed="yes">
@@ -13904,4 +13906,10 @@ In this library the device names are the same as the pin names of the symbols, t
 </sheets>
 </schematic>
 </drawing>
+<compatibility>
+<note version="6.3" minversion="6.2.2" severity="warning">
+Since Version 6.2.2 text objects can contain more than one line,
+which will not be processed correctly with this version.
+</note>
+</compatibility>
 </eagle>
